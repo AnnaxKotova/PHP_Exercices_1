@@ -3,5 +3,4 @@
  $firstname = 'Jacques';
  $age = 35;
 
- echo "$lastname, $firstname, $age";
- ?>
+ echo 'Nom : ' . $lastname . '<br/>' . 'Prénom : '. $firstname . '</br>' . $age;
